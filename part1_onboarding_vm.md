@@ -35,7 +35,7 @@ Securely onboard a Windows VM to MDE for monitoring, detection, and control capa
 
 ### 3. Navigate to the Onboarding Page
 
-- Go to: Settings → Endpoints → Device Management → Onboarding
+- Go to: **Settings → Endpoints → Device Management → Onboarding**
 
 ### 4. Download the Appropriate Onboarding Package
 
@@ -52,12 +52,8 @@ Choose the correct package for your OS:
 
 ### 6. Verify Onboarding Success
 
-- Go to:
-```
+- Go to: **Assets → Devices**
 
-Assets → Devices
-
-```
 - Your VM should appear in the device list if onboarding was successful.
 
 ---
@@ -66,7 +62,5 @@ Assets → Devices
 
 - This step is foundational — you will use the onboarded VM for subsequent steps like isolation and investigation.
 - You may power off the VM after onboarding. If deleted, you'll need to re-create and onboard a new VM.
-
-```
 
 ---
