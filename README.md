@@ -60,7 +60,7 @@ mde-endpoint-lab/
 
 Feel free to fork the repo, open an issue, or suggest enhancements.
 
-Created by **[Allen Clement Justine Clement]**  
+Created by **Allen Clement Justine Clement**  
 M.S. Cybersecurity in Computer Science
 
 ---
