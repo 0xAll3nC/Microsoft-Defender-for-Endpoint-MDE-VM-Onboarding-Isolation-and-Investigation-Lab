@@ -18,9 +18,9 @@ Ideal for security engineers, blue teamers, or students looking to simulate real
 
 | Module | File Location | Description |
 |--------|------------------------------|-------------|
-| Part 1: Onboarding a VM | `docs/part1_onboarding_vm.txt` | Set up a Windows VM and connect it to MDE |
-| Part 2: Isolating a VM  | `docs/part2_isolation_vm.txt`  | Simulate a threat and isolate the VM from the network |
-| Part 3: Investigation Package | `docs/part3_investigation_package.txt` | Collect system logs and forensic artifacts for analysis |
+| Part 1: Onboarding a VM | `part1_onboarding_vm.txt` | Set up a Windows VM and connect it to MDE |
+| Part 2: Isolating a VM  | `part2_isolation_vm.txt`  | Simulate a threat and isolate the VM from the network |
+| Part 3: Investigation Package | `part3_investigation_package.txt` | Collect system logs and forensic artifacts for analysis |
 
 ---
 
