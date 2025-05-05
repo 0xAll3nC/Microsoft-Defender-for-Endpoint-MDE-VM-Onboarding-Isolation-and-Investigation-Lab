@@ -39,10 +39,9 @@ Ideal for security engineers, blue teamers, or students looking to simulate real
 
 mde-endpoint-lab/
 ├── README.md
-├── docs/
-│   ├── part1\_onboarding\_vm.txt
-│   ├── part2\_isolation\_vm.txt
-│   └── part3\_investigation\_package.txt
+│  ├── part1\_onboarding\_vm.txt
+│  ├── part2\_isolation\_vm.txt
+│  └── part3\_investigation\_package.txt
 
 ```
 
