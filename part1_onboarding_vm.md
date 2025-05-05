@@ -35,10 +35,9 @@ Securely onboard a Windows VM to MDE for monitoring, detection, and control capa
 
 ### 3. Navigate to the Onboarding Page
 
+- Go to:
 ```
-
 Settings → Endpoints → Device Management → Onboarding
-
 ```
 
 ### 4. Download the Appropriate Onboarding Package
