@@ -27,7 +27,7 @@ Securely onboard a Windows VM to MDE for monitoring, detection, and control capa
 ### 1. Create a Windows Virtual Machine
 
 - Use a strong password during setup.
-- [Avoid using default credentials], as weak credentials are vulnerable to brute-force attacks.
+- **Avoid using default credentials**, as weak credentials are vulnerable to brute-force attacks.
 
 ### 2. Log into Microsoft Defender Portal
 
