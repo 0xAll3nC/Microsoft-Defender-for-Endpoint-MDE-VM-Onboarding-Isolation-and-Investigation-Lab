@@ -57,9 +57,7 @@ Visit: [https://security.microsoft.com](https://security.microsoft.com)
 
 ### 2. Navigate to Device List
 
-```
-Assets → Devices
-```
+**Assets → Devices**
 
 ### 3. Locate Your Virtual Machine
 
