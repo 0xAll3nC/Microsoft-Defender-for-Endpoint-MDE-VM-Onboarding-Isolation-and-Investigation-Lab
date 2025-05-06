@@ -94,6 +94,6 @@ After validation:
 
 ---
 
-## 💡 Additional Tip
+## Additional Tip
 
 Isolation actions can also be automated as part of detection rules and incident response playbooks in MDE, enabling faster containment in enterprise environments.
