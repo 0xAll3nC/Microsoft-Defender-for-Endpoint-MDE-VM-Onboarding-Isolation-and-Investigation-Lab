@@ -1,18 +1,16 @@
-## `part1_onboarding_vm.md`
-
-# 🚀 Part 1: Onboarding a Windows VM to Microsoft Defender for Endpoint (MDE)
+# Part 1: Onboarding a Windows VM to Microsoft Defender for Endpoint (MDE)
 
 This section explains how to onboard a Windows Virtual Machine (VM) into Microsoft Defender for Endpoint (MDE), enabling real-time visibility and control over endpoint activity.
 
 ---
 
-## 🎯 Objective
+## Objective
 
 Securely onboard a Windows VM to MDE for monitoring, detection, and control capabilities.
 
 ---
 
-## 🛠️ Prerequisites
+## Prerequisites
 
 - Access to [Microsoft Defender Security Portal](https://security.microsoft.com)
 - A running Windows 10/11 or Windows Server VM (Azure, VMware, Hyper-V, or local)
@@ -21,7 +19,7 @@ Securely onboard a Windows VM to MDE for monitoring, detection, and control capa
 
 ---
 
-## 🧩 Step-by-Step Instructions
+## Step-by-Step Instructions
 
 ### 1. Create a Windows Virtual Machine
 
@@ -57,7 +55,7 @@ Choose the correct package for your OS:
 
 ---
 
-## 💡 Notes
+## Notes
 
 - This step is foundational — you will use the onboarded VM for subsequent steps like isolation and investigation.
 - You may power off the VM after onboarding. If deleted, you'll need to re-create and onboard a new VM.
